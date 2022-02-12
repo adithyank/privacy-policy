@@ -1,4 +1,4 @@
-`TNPSC Online` is a Mobile Application launched by the Educational Institution (Hitech Academy in support of Kanchivalluvan IAS Academy) targeting the aspirants who are preparing for competitive Exams like TNPSC, SSC, TNUSRB, Banking and Indian Railways. These examinations are conducted by Government of India and Government of Tamil Nadu.
+`Hitech Academy` is a Mobile Application launched by the Educational Institution (Hitech Academy in support of Kanchivalluvan IAS Academy for TNPSC) targeting the aspirants who are preparing for competitive Exams like TNPSC, SSC, TNUSRB, Banking and Indian Railways. These examinations are conducted by Government of India and Government of Tamil Nadu.
 
 This Application provides online test practices, study materials, classroom videos for aspirants preparing for above competitive exams.
 
