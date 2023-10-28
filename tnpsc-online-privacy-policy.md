@@ -1,5 +1,4 @@
-Privacy Policy Document for the App `Hitech Academy`
-====================================================
+## Privacy Policy Document for the App `Hitech Academy`
 
 
 App Introduction
