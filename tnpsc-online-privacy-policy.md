@@ -34,9 +34,13 @@ Developer Information
 
 For any queries on Data Privacy and Information Security, you may please contact the developer of this app as per the details given below.
 
-TechSukras Software Private Limited
-City: Chennai, Tamil Nadu, India
-Website: www.techsukras.com
-E-Mail: reach@techsukras.com
-Mobile Number: +91 81482 90467
+**TechSukras Software Private Limited**
+
+City: **Chennai, Tamil Nadu, India**
+
+Website: **www.techsukras.com**
+
+E-Mail: **reach@techsukras.com**
+
+Mobile Number: **+91 81482 90467**
 
