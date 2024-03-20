@@ -34,6 +34,15 @@ Not at all! We dont share anything. The above Information collected by this app 
 
 This app DOES NOT USE any 3rd party libraries or services that needs the personal information of its users.
 
+Your Data Deletion
+------------------
+
+If you want all your data to be deleted from this app, please send an E-Mail to 
+`reach@techsukras.com` along with your username. Don't send any passwords to us. We will shortly have 
+a web based interface using which, you will be able to trigger deletion of data directly without 
+needing this E-Mail process.
+
+
 Developer Information
 ---------------------
 
